@@ -1,0 +1,26 @@
+body {
+   background-image: linear-gradient(to bottom right, rgb(102, 200, 218), rgb(0, 0, 0));
+   color: rgb(255, 255, 255);
+   border-style: double;
+   font-family: Courier New;
+}
+
+h1 {text-align: center;
+    font-family: Papyrus}
+h2 {text-align: center;}
+p{font-weight: 800;}
+a{font-weight: 800;}
+.code {
+  border-radius: 100px;
+  padding: 20px;
+  width: 700px;
+  height: 500px;
+}
+.cat {
+  border-radius: 120px;
+  border: 1px solid #ddd;
+  width: 100px;
+  height: 70px;
+}
+
+
